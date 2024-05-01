@@ -4,7 +4,7 @@ description: "Yet Another Resource Negotiator (YARN) is a resource management an
 aliases:
   - YARN
 tags:
-  - TODO
+  - 🌱sapling
   - dataengineering
 draft: true
 date: 2024-04-30

@@ -4,7 +4,7 @@ description: A data catalog is a centralized repository that stores metadata and
 aliases:
   - Data Catalog
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

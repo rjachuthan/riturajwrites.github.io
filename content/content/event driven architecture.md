@@ -4,7 +4,7 @@ description: Event-driven architecture (EDA) is a software design pattern where 
 aliases:
   - Event Driven Architecture
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

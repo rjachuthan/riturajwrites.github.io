@@ -4,7 +4,7 @@ description: Data contracts define the rules, formats, and expectations for exch
 aliases:
   - Data Contracts
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

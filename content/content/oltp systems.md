@@ -4,7 +4,7 @@ description: OLTP (Online Transaction Processing) systems are database managemen
 aliases:
   - OLTP System
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

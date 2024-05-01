@@ -5,7 +5,7 @@ aliases:
   - Data Engineering
   - DE
 tags:
-  - TODO
+  - 🌱sapling
   - dataengnineering
 draft: true
 date: 2024-04-27

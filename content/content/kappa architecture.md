@@ -4,7 +4,7 @@ description: The Kappa architecture is a stream processing architecture that sim
 aliases:
   - Kappa Architecture
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

@@ -4,7 +4,7 @@ description: DevOps is a software development approach that combines software de
 aliases:
   - DevOps
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

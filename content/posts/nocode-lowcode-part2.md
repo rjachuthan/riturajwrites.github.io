@@ -9,13 +9,13 @@ tags:
   - databricks
 ---
 
-In our inaugural exploration ([[nocode-lowcode-part1|Part 1]]), we embarked on a journey, diving into the foundational aspects and transformative potential of a Low-Code/No-Code [[data_engineering|Data Engineering]] approach. As we venture deeper in Part 2, we'll unravel the intricacies of the No-Code [[data_engineering|Data Engineering]] framework, shedding light on its robust architecture and configuration-driven design. We briefly touched upon how this framework has potential to democratize [[data_engineering|Data Engineering]] , making it accessible to both technical maestros and novices alike. As we forge ahead in Part 2, our expedition delves deeper, unraveling the layers that constitute the Low-Code/No-Code [[data_engineering|Data Engineering]] realm.
+In our inaugural exploration ([[nocode-lowcode-part1|Part 1]]), we embarked on a journey, diving into the foundational aspects and transformative potential of a Low-Code/No-Code [[data engineering|Data Engineering]] approach. As we venture deeper in Part 2, we'll unravel the intricacies of the No-Code [[data engineering|Data Engineering]] framework, shedding light on its robust architecture and configuration-driven design. We briefly touched upon how this framework has potential to democratize [[data engineering|Data Engineering]] , making it accessible to both technical maestros and novices alike. As we forge ahead in Part 2, our expedition delves deeper, unraveling the layers that constitute the Low-Code/No-Code [[data engineering|Data Engineering]] realm.
 
-The framework's robust architecture is really simple. Built on principles of Configuration-Driven Design, it is crafted to be malleable, catering to varied data needs while ensuring the integrity and efficiency of the [[data_pipeline|Data Pipeline]]. The paradigm of No-Code/Low-Code [[data_engineering|Data Engineering]] is not merely about the absence of coding; it's about optimizing processes, streamlining workflows, and, most importantly, bridging the chasm between technical and non-technical users. This is where its user-friendly interface will shine, acting as a beacon for those venturing into data realms previously deemed insurmountable without a coding background.
+The framework's robust architecture is really simple. Built on principles of Configuration-Driven Design, it is crafted to be malleable, catering to varied data needs while ensuring the integrity and efficiency of the [[data pipeline|Data Pipeline]]. The paradigm of No-Code/Low-Code [[data engineering|Data Engineering]] is not merely about the absence of coding; it's about optimizing processes, streamlining workflows, and, most importantly, bridging the chasm between technical and non-technical users. This is where its user-friendly interface will shine, acting as a beacon for those venturing into data realms previously deemed insurmountable without a coding background.
 
-Platforms like reddit have become hotbeds of discussions, teeming with enthusiasts and skeptics alike, dissecting the merits and challenges of [[data_engineering|Data Engineering]] sans the traditional coding rigmarole **[TODO: Add links supporting this]**. But what truly sets this platform and software apart? Beyond the surface-level allure of simplicity, this platforms harbor intricate mechanisms. From extensible [[data_pipeline|Data Pipeline]]s that ensure seamless data transformation to the embedded good coding practices ensuring the system's reliability, the depth of this framework is astounding.
+Platforms like reddit have become hotbeds of discussions, teeming with enthusiasts and skeptics alike, dissecting the merits and challenges of [[data engineering|Data Engineering]] sans the traditional coding rigmarole **[TODO: Add links supporting this]**. But what truly sets this platform and software apart? Beyond the surface-level allure of simplicity, this platforms harbor intricate mechanisms. From extensible [[data pipeline|Data Pipeline]]s that ensure seamless data transformation to the embedded good coding practices ensuring the system's reliability, the depth of this framework is astounding.
 
-Since the logic of the [[data_pipeline|Data Pipeline]]s has been already wrapped in neatly packaged classes and have already been unit tested thoroughly, the significance of unit testing in traditional frameworks becomes less pressing in this No-Code paradigm. Developers no longer have to invest extra time in unit testing on their end. Ensuring that every module functions as intended, that every cog in the machine runs smoothly, becomes a given. This not only streamlines the development process but also provides assurance of the system's reliability. Add to this the principle of extensibility, and you have a framework that is not only robust at its core but also adaptable, ready to evolve with the ever-changing data landscape, giving developers more time to engineer effective solutions.
+Since the logic of the [[data pipeline|Data Pipeline]]s has been already wrapped in neatly packaged classes and have already been unit tested thoroughly, the significance of unit testing in traditional frameworks becomes less pressing in this No-Code paradigm. Developers no longer have to invest extra time in unit testing on their end. Ensuring that every module functions as intended, that every cog in the machine runs smoothly, becomes a given. This not only streamlines the development process but also provides assurance of the system's reliability. Add to this the principle of extensibility, and you have a framework that is not only robust at its core but also adaptable, ready to evolve with the ever-changing data landscape, giving developers more time to engineer effective solutions.
 
 Whether you're a seasoned data engineer, a budding enthusiast, or someone merely intrigued by the buzz surrounding low code platforms or no code platforms, this exploration promises insights and revelations. As we navigate through the intricacies of the framework, from its architecture to its operational nuances, join us in discovering the future of data engineering—a future where complexity is tamed, and innovation thrives.
 
@@ -25,7 +25,7 @@ Let me explain how I came up with the Architecture of this framework.
 
 ### Framework Architecture - The Ideation
 
-When embarking on the journey to design a robust [[data_engineering|Data Engineering]] framework, it's crucial to lay a strong architectural foundation. Let's delve into the intricate architecture of our No-Code/Low-Code [[data_engineering|Data Engineering]] framework.
+When embarking on the journey to design a robust [[data engineering|Data Engineering]] framework, it's crucial to lay a strong architectural foundation. Let's delve into the intricate architecture of our No-Code/Low-Code [[data engineering|Data Engineering]] framework.
 
 #### 1. Data Assumptions and Environment
 
@@ -37,7 +37,7 @@ The framework operates on a fundamental assumption: the data you're processing i
 
 #### 2. The Three Pillars: Read, Transform, Write
 
-Upon a closer inspection of our [[data_pipeline|Data Pipeline]]s, a pattern emerges. Regardless of the complexities and nuances, at their core, these pipelines revolve around three primary stages: Reading, Transforming, and Writing data.
+Upon a closer inspection of our [[data pipeline|Data Pipeline]]s, a pattern emerges. Regardless of the complexities and nuances, at their core, these pipelines revolve around three primary stages: Reading, Transforming, and Writing data.
 
 - The sequence of these stages can vary. For instance, the ETL (Extract, Transform, Load) process follows a Read-Transform-Write sequence. In contrast, ELT (Extract, Load, Transform) involves Reading, Writing, then Transforming, followed by another Write operation. Some specialized pipelines might even adopt a Read-Transform-Write (for rejected datasets)-Write (for final datasets) sequence.
 - With these diverse scenarios in mind, and anticipating future variations, I encapsulated the dataset representation within a Python Class named `SparkDataset`. This class serves as the backbone of our data operations. As for the pipeline representation, it's elegantly captured using dedicated classes like `ETL`, `ELT`, and others, ensuring flexibility and adaptability.
@@ -146,7 +146,7 @@ The Writer classes follow a similar structure. At their core, they have an abstr
 
 ## Extensibility - The Power to Evolve
 
-As we continue to delve deeper into the architecture of our No-Code/Low-Code [[data_engineering|Data Engineering]] framework, one of its defining features is its remarkable extensibility. This aspect empowers the framework to adapt and evolve, catering to a wide array of [[data_engineering|Data Engineering]] requirements.
+As we continue to delve deeper into the architecture of our No-Code/Low-Code [[data engineering|Data Engineering]] framework, one of its defining features is its remarkable extensibility. This aspect empowers the framework to adapt and evolve, catering to a wide array of [[data engineering|Data Engineering]] requirements.
 
 We've already explored the core functions of the `SparkDataset` class, which forms the backbone of our data operations. But what truly sets it apart is its inherent flexibility.
 
@@ -164,23 +164,23 @@ Data Transformations is wheer the magic happens, and the `SparkDataset` class is
 
 ### Feature Engineering Made Easy
 
-One of the core tasks in [[data_engineering|Data Engineering]] is feature engineering. This process involves creating new features from existing data, transforming raw data into informative features that machine learning models can use for prediction and analysis.
+One of the core tasks in [[data engineering|Data Engineering]] is feature engineering. This process involves creating new features from existing data, transforming raw data into informative features that machine learning models can use for prediction and analysis.
 
 The `SparkDataset` class simplifies feature engineering by providing a range of built-in functions and utilities for commmon feature engineeering tasks. Whether you need to create a new columns, apply mathematical transformations, or handle missing data, the class offers a user-friendly interface to perform these operations effortlessly.
 
 ### Streamlining Data Science Models
 
-As organizations grow and [[data_engineering|Data Engineering]] pipelines become more complex, the need to streamline the integration of Data Science Models into the framework becomes apparent. When teams create hundreds of models, patterns tend to emerge, and repetitive tasks can be automated.
+As organizations grow and [[data engineering|Data Engineering]] pipelines become more complex, the need to streamline the integration of Data Science Models into the framework becomes apparent. When teams create hundreds of models, patterns tend to emerge, and repetitive tasks can be automated.
 
 The future of our framework includes a dedicated module for Data Science Model integration. This module will facilitate the seamless incorporation of machine learning models, allowing data engineers and data scientists to collaborate efficiently. Whether it's deploying models in batch processes, automating model evaluation, or managing model versions, our framework will simplify these processes, reducing the overhead of managing a growing model ecosystem.
 
-Stay tuned for more insights into how our No-Code/Low-Code [[data_engineering|Data Engineering]] framework continues to evolve and adapt to the ever-changing landscape of [[data_engineering|Data Engineering]] and data science.
+Stay tuned for more insights into how our No-Code/Low-Code [[data engineering|Data Engineering]] framework continues to evolve and adapt to the ever-changing landscape of [[data engineering|Data Engineering]] and data science.
 
 ## Conclusion
 
-As we conclude our journey through the architecture of our No-Code/Low-Code [[data_engineering|Data Engineering]] framework, it's clear that the power to evolve is at the heart of its design. This framework isn't just a static solution; it's a dynamic and adaptable tool that grows alongside your [[data_engineering|Data Engineering]] needs.
+As we conclude our journey through the architecture of our No-Code/Low-Code [[data engineering|Data Engineering]] framework, it's clear that the power to evolve is at the heart of its design. This framework isn't just a static solution; it's a dynamic and adaptable tool that grows alongside your [[data engineering|Data Engineering]] needs.
 
-From handling diverse data formats to simplifying feature engineering and envisioning the seamless integration of Data Science Models, our framework is a testament to the ever-evolving landscape of [[data_engineering|Data Engineering]] and data science.
+From handling diverse data formats to simplifying feature engineering and envisioning the seamless integration of Data Science Models, our framework is a testament to the ever-evolving landscape of [[data engineering|Data Engineering]] and data science.
 
 We invite you to embrace this future of data engineering—a future where complexity is tamed, innovation thrives, and collaboration between technical maestros and novices becomes the norm. Our journey doesn't end here; it continues to evolve, just like the data landscape it serves.
 

@@ -5,7 +5,7 @@ aliases:
   - Data Science
   - Data Scientist
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-28
 status: not-started

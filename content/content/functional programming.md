@@ -4,7 +4,7 @@ description: Functional programming is a programming paradigm that treats comput
 aliases:
   - Functional Programming
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

@@ -4,7 +4,7 @@ description: Extract, Transform, Load (ETL) is a data integration process where 
 aliases:
   - ETL
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

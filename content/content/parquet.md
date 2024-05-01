@@ -4,7 +4,7 @@ description: Parquet is a columnar storage file format optimized for storing and
 aliases:
   - Parquet
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

@@ -4,7 +4,7 @@ description: R is a programming language and environment primarily used for stat
 aliases:
   - R
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-30
 status: not-started

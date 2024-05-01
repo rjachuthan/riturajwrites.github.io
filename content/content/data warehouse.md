@@ -5,7 +5,7 @@ aliases:
   - Data Warehouse
   - DW
 tags:
-  - TODO
+  - 🌱sapling
   - datawarehouse
 draft: true
 date: 2024-04-27

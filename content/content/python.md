@@ -4,7 +4,7 @@ description: "Python is a high-level, interpreted programming language known for
 aliases:
   - Python
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

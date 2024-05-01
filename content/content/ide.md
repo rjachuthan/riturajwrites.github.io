@@ -4,7 +4,7 @@ description: IDE stands for Integrated Development Environment, which is a softw
 aliases:
   - IDE
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

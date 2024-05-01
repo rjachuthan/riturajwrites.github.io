@@ -4,7 +4,7 @@ description: A junk dimension is a dimension table in a data warehouse that cons
 aliases:
   - Junk Dimension
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

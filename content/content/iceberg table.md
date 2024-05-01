@@ -4,7 +4,7 @@ description: Iceberg tables are a type of table format used in distributed data 
 aliases:
   - Iceberg Table
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

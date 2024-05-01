@@ -4,7 +4,7 @@ description: A star schema is a type of database schema used in data warehousing
 aliases:
   - Star Schema
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

@@ -4,7 +4,6 @@ description: "Introducing Myself"
 aliases:
   - Rituraj Achuthan
 tags:
-  - TODO
 draft: false
 date: 2024-04-28
 status: not-started

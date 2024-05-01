@@ -5,7 +5,7 @@ aliases:
   - Apache Spark
   - Spark
 tags:
-  - TODO
+  - 🌱sapling
   - dataengineering
 draft: true
 date: 2024-04-28

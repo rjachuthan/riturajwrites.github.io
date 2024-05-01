@@ -4,7 +4,7 @@ description: Apache ORC (Optimized Row Columnar) is a highly efficient and optim
 aliases:
   - Apache ORC
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

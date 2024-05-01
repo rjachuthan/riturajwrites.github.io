@@ -4,7 +4,7 @@ description: "Reverse ETL is a data integration process where data flows from a 
 aliases:
   - Reverse ETL
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

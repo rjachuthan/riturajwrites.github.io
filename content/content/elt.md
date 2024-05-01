@@ -4,7 +4,7 @@ description: Distributed computing is a computing paradigm in which tasks are di
 aliases:
   - ELT
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

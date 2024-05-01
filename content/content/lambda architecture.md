@@ -4,7 +4,7 @@ description: "The Lambda architecture is a data processing architecture designed
 aliases:
   - Lamdba Architecture
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started

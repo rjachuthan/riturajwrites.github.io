@@ -4,7 +4,7 @@ description: A data lake is a centralized repository that stores large volumes o
 aliases:
   - Data Lake
 tags:
-  - TODO
+  - 🌱sapling
 draft: true
 date: 2024-04-29
 status: not-started
