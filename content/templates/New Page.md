@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "<% tp.file.title.split(' ').map(z => z.charAt(0).toUpperCase()+z.slice(1)).join(' ') %>"
 description: ""
-aliases: 
+aliases:
+  - <% tp.file.title.split(' ').map(z => z.charAt(0).toUpperCase()+z.slice(1)).join(' ') %>
 tags:
   - TODO
 draft: true
