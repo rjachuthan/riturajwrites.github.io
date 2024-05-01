@@ -14,4 +14,4 @@ So come on in, kick off your shoes, and let's wander together through the ever-e
 
 Feel free to explore, ask questions, and share your own insights along the way. Thanks for stopping by, and I can't wait to see where this journey takes us!
 
-[Explore My Long Essays](/posts) | [[about|About Me]] | [[about#Contact Me|Contact Me]]
+[Explore My Long Essays](/posts) | [Now Reading](/books) | [[about|About Me]] 
