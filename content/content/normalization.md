@@ -4,7 +4,7 @@ description: Database normalization is the process of organizing data in a datab
 aliases:
   - Normalization
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

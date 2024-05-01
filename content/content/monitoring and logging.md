@@ -1,11 +1,12 @@
 ---
-title: Medallion Architecture
+title: Monitoring And Logging
 description: ""
 aliases:
-  - Medallion Architecture
+  - Monitoring And Logging
 tags:
   - 🌱seedling
 draft: true
-date: 2024-04-29
+date: 2024-05-01
 status: not-started
+backlink:
 ---

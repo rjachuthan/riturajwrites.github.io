@@ -4,7 +4,7 @@ description: Deep learning is a subset of machine learning that uses artificial 
 aliases:
   - Deep Learning
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-05-01
 status: not-started

@@ -4,7 +4,7 @@ description: ""
 aliases:
   - Metadata First Architecture
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

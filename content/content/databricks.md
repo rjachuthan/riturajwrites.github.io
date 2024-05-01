@@ -1,11 +1,11 @@
 ---
-title: Medallion Architecture
+title: Databricks
 description: ""
 aliases:
-  - Medallion Architecture
+  - Databricks
 tags:
   - 🌱seedling
 draft: true
-date: 2024-04-29
+date: 2024-05-01
 status: not-started
 ---

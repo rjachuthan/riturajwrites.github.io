@@ -4,7 +4,7 @@ description: Scala is a high-level programming language that combines object-ori
 aliases:
   - Scala
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-30
 status: not-started

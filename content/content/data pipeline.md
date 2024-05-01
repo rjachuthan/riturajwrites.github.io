@@ -4,7 +4,7 @@ description: A data lakehouse combines the benefits of a data lake (scalability,
 aliases:
   - Data Pipeline
 tags:
-  - 🌱sapling
+  - 🌱seedling
   - dataengineering
 draft: true
 date: 2024-04-27

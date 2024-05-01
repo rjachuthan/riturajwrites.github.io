@@ -4,7 +4,7 @@ description: Data mesh is an architectural paradigm that advocates for a decentr
 aliases:
   - Data Mesh
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

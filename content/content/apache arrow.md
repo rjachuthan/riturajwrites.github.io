@@ -5,7 +5,7 @@ aliases:
   - Apache Arrow
   - Arrow
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

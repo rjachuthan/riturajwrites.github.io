@@ -4,7 +4,7 @@ description: A data mart is a specialized subset of a data warehouse that focuse
 aliases:
   - Data Mart
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

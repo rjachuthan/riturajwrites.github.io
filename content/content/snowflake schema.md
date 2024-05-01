@@ -4,7 +4,7 @@ description: "A snowflake schema is a type of database schema used in data wareh
 aliases:
   - Snowflake Schema
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

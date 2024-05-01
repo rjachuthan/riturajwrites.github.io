@@ -1,11 +1,11 @@
 ---
-title: Medallion Architecture
+title: Lazy Evaluation
 description: ""
 aliases:
-  - Medallion Architecture
+  - Lazy Evaluation
 tags:
   - 🌱seedling
 draft: true
-date: 2024-04-29
+date: 2024-05-01
 status: not-started
 ---

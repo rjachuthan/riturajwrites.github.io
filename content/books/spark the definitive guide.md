@@ -20,7 +20,7 @@ status: in-progress
 >  - **Author**: [[Bill Chambers]], [[Matei Zaharia]]
 >  - **Goodreads URL**: [Spark: The Definitive Guide: Big Data Processing made Simple](https://www.goodreads.com/book/show/38467996-spark?ac=1&from_search=true&qid=YxSBVyJBud&rank=1)
 
-# Highlights
+# General Overview of [[big data|Big Data]] and Spark
 
 ## What is Apache Spark?
 
@@ -53,10 +53,11 @@ Spark's Language APIs enable users to write Spark code using various programming
 
 ## Spark's High Level APIs
 
-**[[SparkSession]]**: The SparkSession serves as the *driver process* for controlling Spark Applications. It is responsible for executing user-defined manipulations across the cluster. Each Spark Application corresponds to a single SparkSession, ensuring a one-to-one relationship between them.
-
-**[[spark dataframe|Spark DataFrame]]**: A Spark DataFrame is a distributed collection of data organized into named columns.
-
-**Partitions**: Spark breaks up data into partitions to enable parallel processing by distributing them across the cluster. Each partition contains a collection of rows residing on a single physical machine within the cluster. Partitions in a DataFrame represent the physical distribution of data across machines during execution, allowing every executor to work on data chunks concurrently.
-
-**Transformations**: In Spark, core data structures are immutable, meaning they cannot be changed once created. To modify a DataFrame, you need to specify transformations, which are ==instructions for Spark to perform desired modifications==. There are two types of transformations: **narrow transformations**, where each input partition contributes to only one output partition, and **wide transformations**, where input partitions contribute to multiple output partitions, often resulting in a *shuffle* across the cluster. Narrow transformations enable Spark to perform an operations called *pipelining*, performing multiple operations in-memory. However, shuffles require Spark to write results to disk, making them more costly in terms of performance.
+- **[[SparkSession]]**: The SparkSession serves as the *driver process* for controlling Spark Applications. It is responsible for executing user-defined manipulations across the cluster. Each Spark Application corresponds to a single SparkSession, ensuring a one-to-one relationship between them.
+- **[[spark dataframe|Spark DataFrame]]**: A Spark DataFrame is a distributed collection of data organized into named columns.
+- **Partitions**: Spark breaks up data into partitions to enable parallel processing by distributing them across the cluster. Each partition contains a collection of rows residing on a single physical machine within the cluster. Partitions in a DataFrame represent the physical distribution of data across machines during execution, allowing every executor to work on data chunks concurrently.
+- **Transformations**: In Spark, core data structures are immutable, meaning they cannot be changed once created. To modify a DataFrame, you need to specify transformations, which are ==instructions for Spark to perform desired modifications==. There are two types of transformations: **narrow transformations**, where each input partition contributes to only one output partition, and **wide transformations**, where input partitions contribute to multiple output partitions, often resulting in a *shuffle* across the cluster. Narrow transformations enable Spark to perform an operations called *pipelining*, performing multiple operations in-memory. However, shuffles require Spark to write results to disk, making them more costly in terms of performance.
+	- **[[lazy evaluation|Lazy Evaluation]]**: Lazy evaluation in Spark defers the execution of computation instructions until the last moment, where operations are expressed as transformations on the source data, building a plan that is compiled into a streamlined physical plan for efficient execution across the cluster.
+- **Actions**: In Spark, transformations enable the construction of a logical transformation plan, while actions are used to trigger computation by instructing Spark to compute a result from the series of transformations.
+- **[[spark ui|Spark UI]]**
+- **[[directed acyclic graph|Directed Acyclic Graph]] of Transformations**

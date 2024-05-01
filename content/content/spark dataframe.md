@@ -4,7 +4,7 @@ description: A Spark DataFrame is a distributed collection of data organized int
 aliases:
   - Spark DataFrame
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-30
 status: not-started

@@ -5,7 +5,7 @@ aliases:
   - Apache Avro
   - Avro
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

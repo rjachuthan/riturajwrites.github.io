@@ -5,11 +5,15 @@ aliases:
   - Business Intelligence
   - BI
 tags:
-  - 🌱sapling
+  - 🌱seedling
   - businessintelligence
 draft: false
 date: 2024-04-27
-status: in-progress
+status: done
 ---
 
-Business Intelligence (BI) refers to the ==technologies, strategies, and practices used by organisations to analyse and interpret their data in order to make informed business decisions==. It encompasses a wide range of processes, tools, and methodologies aimed at gathering, storing, analysing, and presenting data to support decision-making at all levels of an organisation.
+**Business Intelligence (BI)** refers to a set of technologies, strategies, and practices used by enterprises to analyze and interpret their business information and transform it into actionable business decisions. It encompasses the processes of collecting, sorting, and analyzing data from business operations or activities to optimize performance.
+
+==In practice, modern business intelligence emphasizes having a comprehensive view of organizational data and leveraging it to drive change, eliminate inefficiencies, and quickly adapt to market or supply changes.==[^1] Modern BI solutions prioritize flexible self-service analysis, governed data on trusted platforms, empowered business users, and speed to insight.[^1]
+
+[^1]: [Business Intelligence: A Complete Overview](https://www.tableau.com/learn/articles/business-intelligence) 

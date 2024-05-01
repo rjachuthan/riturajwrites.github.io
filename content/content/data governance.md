@@ -4,7 +4,7 @@ description: Data governance encompasses the processes, policies, and practices 
 aliases:
   - Data Governance
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

@@ -4,11 +4,11 @@ description: A data lakehouse combines the benefits of a data lake (scalability,
 aliases:
   - Data Lakehouse
 tags:
-  - 🌱sapling
+  - 🌱seedling
   - dataengineering
-draft: true
+draft: false
 date: 2024-04-27
-status: not-started
+status: in-progress
 ---
 
 Data Lakehouse

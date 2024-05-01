@@ -6,7 +6,7 @@ description: |-
 aliases:
   - Mesos
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-30
 status: not-started

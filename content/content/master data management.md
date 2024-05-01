@@ -4,7 +4,7 @@ description: Master Data Management (MDM) is the process of managing and maintai
 aliases:
   - Master Data Management
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

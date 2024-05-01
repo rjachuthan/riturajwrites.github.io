@@ -4,7 +4,7 @@ description: "Slowly Changing Dimensions (SCDs) are a concept in data warehousin
 aliases:
   - Slowly Changing Dimension
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

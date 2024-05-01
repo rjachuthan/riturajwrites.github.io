@@ -1,11 +1,11 @@
 ---
-title: Medallion Architecture
+title: Spark UI
 description: ""
 aliases:
-  - Medallion Architecture
+  - Spark UI
 tags:
   - 🌱seedling
 draft: true
-date: 2024-04-29
+date: 2024-05-01
 status: not-started
 ---

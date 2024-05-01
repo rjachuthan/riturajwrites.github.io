@@ -4,7 +4,7 @@ description: Change Data Capture (CDC) is a method used to automatically track a
 aliases:
   - Change Data Capture
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

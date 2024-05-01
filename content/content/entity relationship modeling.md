@@ -4,7 +4,7 @@ description: An Entity-Relationship Diagram (ERD) is a visual representation of 
 aliases:
   - Entity Relationship Model
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

@@ -1,11 +1,12 @@
 ---
-title: Medallion Architecture
+title: Directed Acyclic Graph
 description: ""
 aliases:
-  - Medallion Architecture
+  - Directed Acyclic Graph
+  - DAG
 tags:
   - 🌱seedling
 draft: true
-date: 2024-04-29
+date: 2024-05-01
 status: not-started
 ---

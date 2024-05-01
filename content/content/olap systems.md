@@ -4,7 +4,7 @@ description: OLAP (Online Analytical Processing) systems are database management
 aliases:
   - OLAP System
 tags:
-  - 🌱sapling
+  - 🌱seedling
 draft: true
 date: 2024-04-29
 status: not-started

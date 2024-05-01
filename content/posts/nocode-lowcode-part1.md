@@ -1,10 +1,13 @@
 ---
-title: "Building a Low-Code/No-Code Data Engineering Framework - Part I"
+title: Building a Low-Code/No-Code Data Engineering Framework - Part I
 date: 2023-07-30T17:01:43+05:30
-description: "Explore the transformative potential of Low-Code/No-Code Data Engineering in this detailed blog post. Learn about the inception of our unique framework, designed to streamline and democratize the Data Engineering process. Understand how this innovation in Data Engineering has enhanced our development workflow, promoting efficiency and collaboration. However, innovation isn't without its challenges."
+description: Explore the transformative potential of Low-Code/No-Code Data Engineering in this detailed blog post. Learn about the inception of our unique framework, designed to streamline and democratize the Data Engineering process. Understand how this innovation in Data Engineering has enhanced our development workflow, promoting efficiency and collaboration. However, innovation isn't without its challenges.
 tags:
   - dataengineering
   - databricks
+backlink:
+  - "[[data engineering|Data Engineering]]"
+  - "[[databricks|Databricks]]"
 ---
 
 Let's dive into the world of Low-Code/No Code [[data engineering|Data Engineering]]. But before we do, let's set the stage with a bit of context on the [[data engineering|Data Engineering]] Process.
