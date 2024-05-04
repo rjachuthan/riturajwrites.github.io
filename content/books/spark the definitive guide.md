@@ -28,7 +28,7 @@ status: in-progress
 
 ## Apache Spark's Philosophy
 
-- **Unified**: Spark offers a single platform for various big data tasks like loading data, querying with [[SQL]], [[Machine Learning]], and handling real-time data, making development easier and more efficient.
+- **Unified**: Spark offers a single platform for various big data tasks like loading data, querying with [[sql|SQL]], [[machine learning|Machine Learning]], and handling real-time data, making development easier and more efficient.
 - **Computing Engine**: Spark focuses on computing tasks, working with different storage systems but not storing data permanently itself. It aims to minimise data movement and costs by computing where data resides.
 - **Libraries**: Spark provides additional libraries for various tasks, expanding its capabilities and allowing users to work with different types of data and perform specific tasks more easily. You can find Spark's libraries listed [here](https://spark-packages.org/).
 
@@ -53,7 +53,7 @@ Spark's Language APIs enable users to write Spark code using various programming
 
 ## Spark's High Level APIs
 
-- **[[SparkSession]]**: The SparkSession serves as the *driver process* for controlling Spark Applications. It is responsible for executing user-defined manipulations across the cluster. Each Spark Application corresponds to a single SparkSession, ensuring a one-to-one relationship between them.
+- **[[spark session|SparkSession]]**: The SparkSession serves as the *driver process* for controlling Spark Applications. It is responsible for executing user-defined manipulations across the cluster. Each Spark Application corresponds to a single SparkSession, ensuring a one-to-one relationship between them.
 - **[[spark dataframe|Spark DataFrame]]**: A Spark DataFrame is a distributed collection of data organized into named columns.
 - **Partitions**: Spark breaks up data into partitions to enable parallel processing by distributing them across the cluster. Each partition contains a collection of rows residing on a single physical machine within the cluster. Partitions in a DataFrame represent the physical distribution of data across machines during execution, allowing every executor to work on data chunks concurrently.
 - **Transformations**: In Spark, core data structures are immutable, meaning they cannot be changed once created. To modify a DataFrame, you need to specify transformations, which are ==instructions for Spark to perform desired modifications==. There are two types of transformations: **narrow transformations**, where each input partition contributes to only one output partition, and **wide transformations**, where input partitions contribute to multiple output partitions, often resulting in a *shuffle* across the cluster. Narrow transformations enable Spark to perform an operations called *pipelining*, performing multiple operations in-memory. However, shuffles require Spark to write results to disk, making them more costly in terms of performance.
