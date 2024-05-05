@@ -11,8 +11,6 @@ But let's be real – I'm no coding wizard. Despite my daydreams filled with lin
 
 As I traverse this digital landscape, fueled by the GNU Philosophy and a newfound passion for open source, I invite you to join me. Whether you're a seasoned pro or just dipping your toes into the tech waters, there's something here for everyone.
 
-But beware, my notes won't always be polished masterpieces. In this [[digital garden|Digital Garden]] 🌿, you'll encounter a mix of #🌱seedling concepts – tiny seeds waiting to sprout into fully-fledged ideas. As I nurture them, they'll blossom into #🌿budding insights, and eventually, if all goes well, they'll become #🌳evergreen treasures. 🌳
+But please be aware, my notes won't always be polished masterpieces. In this [[digital garden|Digital Garden]] 🌿, you'll encounter a mix of #🌱seedling concepts – tiny seeds waiting to sprout into fully-fledged ideas. As I nurture them, they'll blossom into #🌿budding insights, and eventually, if all goes well, they'll become #🌳evergreen treasures. 🌳
 
 And what's a garden without pathways to guide you? Look out for my #MOC – Maps of Content – acting as central hubs to navigate through subjects like [[data engineering|Data Engineering]], [[data science|Data Science]], [[linux|Linux]], [Long Essays](/posts), [[programming|Programming]], [Book Notes](/books), and more.
-
-So, kick off your shoes, wander through these digital meadows, and let's embark on this journey together. Here's to the wonderful world of data, tech, and endless possibilities! 🚀
