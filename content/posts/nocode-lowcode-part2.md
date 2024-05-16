@@ -7,6 +7,8 @@ showHero: true
 tags:
   - dataengineering
   - databricks
+  - 🌿budding
+draft: false
 ---
 
 In our inaugural exploration ([[nocode-lowcode-part1|Part 1]]), we embarked on a journey, diving into the foundational aspects and transformative potential of a Low-Code/No-Code [[data engineering|Data Engineering]] approach. As we venture deeper in Part 2, we'll unravel the intricacies of the No-Code [[data engineering|Data Engineering]] framework, shedding light on its robust architecture and configuration-driven design. We briefly touched upon how this framework has potential to democratize [[data engineering|Data Engineering]] , making it accessible to both technical maestros and novices alike. As we forge ahead in Part 2, our expedition delves deeper, unraveling the layers that constitute the Low-Code/No-Code [[data engineering|Data Engineering]] realm.

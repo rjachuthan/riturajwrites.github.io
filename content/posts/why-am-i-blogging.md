@@ -1,8 +1,11 @@
 ---
 title: Embracing the Journey - Unveiling My Digital Haven
 date: 2023-07-18
-description: "Embracing the Journey - Unveiling My Digital Haven"
+description: Embracing the Journey - Unveiling My Digital Haven
 disableComments: false
+draft: false
+tags:
+  - 🌿budding
 ---
 
 Welcome to my digital haven, a place where technology, ideas, and a touch of personal musings intertwine. In this inaugural blog post, I want to share with you the inspiration behind this endeavor, the essence of the quote that sparked it all, and what you can expect from this virtual rendezvous.

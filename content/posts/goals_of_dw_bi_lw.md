@@ -9,6 +9,8 @@ tags:
   - businessintelligence
   - datalakehouse
   - datawarehouse
+  - 🌿budding
+draft: false
 ---
 
 In the rapidly evolving landscape of data management, where the velocity of data generation and the pressure to deliver insights faster than ever before are at an all-time high, the art and science of building and maintaining [[data warehouse|Data Warehouse]]s and [[data lakehouse|Data Lakehouse]]s are undergoing a seismic shift. My journey in the realm of Data Warehousing and [[data engineering|Data Engineering]] spans years, a voyage through time that has allowed me to witness the evolution of data storage, processing, and analytics from close quarters. This story, my story, is a reflection on the changing ethos surrounding data quality and integrity.

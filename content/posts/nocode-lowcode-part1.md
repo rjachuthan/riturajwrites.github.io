@@ -5,9 +5,11 @@ description: Explore the transformative potential of Low-Code/No-Code Data Engin
 tags:
   - dataengineering
   - databricks
+  - 🌿budding
 backlink:
   - "[[data engineering|Data Engineering]]"
   - "[[databricks|Databricks]]"
+draft: false
 ---
 
 Let's dive into the world of Low-Code/No Code [[data engineering|Data Engineering]]. But before we do, let's set the stage with a bit of context on the [[data engineering|Data Engineering]] Process.

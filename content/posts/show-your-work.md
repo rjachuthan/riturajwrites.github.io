@@ -1,11 +1,13 @@
 ---
-title: "The Art of Visibility - Lessons from 'Show Your Work!'"
+title: The Art of Visibility - Lessons from 'Show Your Work!'
 date: 2023-07-19T23:51:46+05:30
-description: "Here I would like to explore Austin Kleon's influential book and how that book has motivated to start this blogging site. This article underscores the potential of work transparency and continuous learning."
+description: Here I would like to explore Austin Kleon's influential book and how that book has motivated to start this blogging site. This article underscores the potential of work transparency and continuous learning.
 disableComments: false
 tags:
-- book
-- productivity
+  - book
+  - productivity
+  - 🌿budding
+draft: false
 ---
 
 Let me get one thing straight - [Austin Kleon](https://twitter.com/austinkleon)'s 'Show Your Work!' has been rattling around in my brain like a catchy pop song for months now. You know the type - it's 3 AM, you're trying to sleep, and all you can hear is 'share your work, share your work.' It's like a mantra, a chant, a nagging parent reminding you to clean your room. but instead of dirty laundry, it's all about airing our your knowledge and learning for the world to see.
