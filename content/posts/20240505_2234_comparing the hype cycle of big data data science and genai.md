@@ -1,7 +1,7 @@
 ---
 title: Comparing the Hype Cycle of Big Data, Data Science And GenAI
 description: ""
-aliases: 
+aliases:
 tags:
   - 🌱seedling
 draft: true
