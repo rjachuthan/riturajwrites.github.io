@@ -1,6 +1,6 @@
 ---
 title: SparkSession
-description: ""
+description: A Spark session is the entry point to programming with Apache Spark, allowing users to create DataFrame and Dataset objects, manage Spark configurations, and access Spark's capabilities for distributed data processing.
 aliases:
   - SparkSession
 tags:

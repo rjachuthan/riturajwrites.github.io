@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Book Notes and Summaries"
 description: ""
 aliases: 
 tags:

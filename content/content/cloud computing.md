@@ -1,11 +1,11 @@
 ---
 title: Cloud Computing
-description: ""
+description: Cloud computing enables on-demand access to shared computing resources and services over the internet, providing scalability, flexibility, and cost-efficiency.
 aliases:
   - Cloud Computing
   - Cloud
 tags:
-  - 🌱seedling
+  - 🌿budding
 draft: false
 date: 2024-05-08
 status: not-started
@@ -18,7 +18,13 @@ These services are typically offered on a pay-as-you-go basis, allowing users to
 
 ## Types of Cloud Computing
 
-1. ![[iaas]]
+1. [[iaas|Infrastructure-as-a-Service]]: Provides virtualized computing resources over the internet. For example, Virtual machines, storage etc.
+2. [[paas|Platform-as-a-Service]]: Offers hardware and software tools over the internet, typically for application development. For example, Database Management Systems, Microsoft Azure App Services
+3. [[saas|Software-as-a-Service]]: Delivers software applications over the internet, on a subscription basis. For example, Microsoft Office 365
+4. Function-as-a-Service
+5. Storage-as-a-Service
+6. Database-as-a-Service
+7. Desktop-as-a-Service
 
 ## Characteristics of Cloud Computing
 

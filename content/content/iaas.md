@@ -1,6 +1,6 @@
 ---
 title: Infrastructure-as-a-Code (IaaS)
-description: ""
+description: Infrastructure as a Service (IaaS) provides virtualized computing resources over the internet, including servers, storage, and networking, allowing businesses to scale and manage IT infrastructure without physical hardware.
 aliases:
   - IaaS
   - Infrastructure-as-a-Service

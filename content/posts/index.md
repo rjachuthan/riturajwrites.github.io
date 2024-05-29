@@ -1,5 +1,5 @@
 ---
-title: Long Essays
+title: Essays
 description: ""
 aliases: 
 tags:

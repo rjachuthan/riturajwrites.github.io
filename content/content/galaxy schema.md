@@ -1,6 +1,6 @@
 ---
 title: Galaxy Schema
-description: ""
+description: A galaxy schema, also known as a fact constellation schema, is a data warehousing design that includes multiple fact tables sharing dimension tables, providing a flexible and scalable way to model complex data relationships.
 aliases:
   - Galaxy Schema
 tags:

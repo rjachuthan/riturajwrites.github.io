@@ -1,5 +1,5 @@
 ---
-title: Everything and Anything
+title: Seedbox
 aliases:
 date: 2024-04-27
 tags:

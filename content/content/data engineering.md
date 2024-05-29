@@ -4,6 +4,8 @@ description: Data engineering involves designing, building, and maintaining the 
 aliases:
   - Data Engineering
   - DE
+  - Data Engineer
+  - data engineer
 tags:
   - 🌱seedling
   - dataengnineering
