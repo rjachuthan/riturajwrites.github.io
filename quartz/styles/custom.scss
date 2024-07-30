@@ -1,8 +1,9 @@
 @use "./base.scss";
+@use "./wiki-callouts.scss";
 
 // put your custom CSS here!
 img[alt*="center"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

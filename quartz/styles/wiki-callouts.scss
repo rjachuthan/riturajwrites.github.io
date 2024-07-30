@@ -1,0 +1,65 @@
+/* Custom Callout Box for "Wiki" style infoboxes.
+Fixed width, floats right, and strips "flair" from ![[embedded]] files */
+
+/* Fix Width, float right, boarder, color */
+.callout[data-callout="infobox"],
+.callout[data-callout="person"] {
+  width: 300px; /* Adjust the width of the callout box */
+  float: right; /* Floats the callout box to the right */
+  margin-left: 5px; /* Adds space between the callout box and the text OUTSIDE the box */
+  border: 1px solid #ccc;
+  padding: 10px; /* Adds space between the callout box and the text INSIDE the box */
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+  /* Obsidian Custom Variables */
+  --callout-icon: lucide-info;
+  --callout-color: 126, 154, 170; /* Sets color "theme" for box (header text and background) */
+}
+
+/* Remove border and padding for embedded files */
+.callout[data-callout="infobox"] .markdown-embed,
+.callout[data-callout="person"] .markdown-embed,
+.callout[data-callout="infobox"] .file-embed,
+.callout[data-callout="person"] .file-embed {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Remove title and the table from the "Metatable" plugin */
+.callout[data-callout="infobox"] .markdown-embed-link,
+.callout[data-callout="person"] .markdown-embed-link,
+.callout[data-callout="infobox"] .file-embed-link,
+.callout[data-callout="person"] .file-embed-link,
+.callout[data-callout="infobox"] .markdown-embed-title,
+.callout[data-callout="person"] .markdown-embed-title,
+.callout[data-callout="infobox"] .obsidian-metatable,
+.callout[data-callout="person"] .obsidian-metatable {
+  display: none;
+}
+
+/* Child Infoboxes */
+
+.callout[data-callout="person"] {
+  /* Obsidian Custom Variables */
+  --callout-icon: lucide-person-standing;
+}
+
+.callout[data-callout="place"] {
+  /* Obsidian Custom Variables */
+  --callout-icon: lucide-palmtree;
+}
+
+// Remove unecessary padding from the title
+.callout[data-callout="infobox"] .callout-title {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+// Center align the image inside the callout
+.callout[data-callout="infobox"] img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
