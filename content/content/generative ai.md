@@ -2,7 +2,7 @@
 title: Generative Ai
 description: ""
 aliases:
-  - Generative Ai
+  - Generative AI
   - GenAI
   - Gen AI
 tags:

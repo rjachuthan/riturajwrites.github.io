@@ -47,7 +47,7 @@ Upon a closer inspection of our [[data pipeline|Data Pipeline]]s, a pattern emer
 Keeping all these things in mind, this is the final Class UML for the entire
 framework. This is how the final Class UML diagram looks for the framework.
 
-![[Framework - Class UML.png]]
+![[img_framework_class_uml_diagram.png]]
 
 Obviously, this is not an exact representation of what we are using in our organization. But this gives a fair idea of what we have implemented. Looking at this, you should have a rough idea about how this can be further extended.
 

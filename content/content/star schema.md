@@ -12,4 +12,4 @@ status: done
 
 A Star Schema is a [[data modeling]] technique used in [[data warehouse]] where data is organized into a central [[fact table]] surrounded by denormalized [[dimension table]], resembling a star shape. This schema design facilitates simplified querying and faster data retrieval for analytical purposes.
 
-![[img_20240502_star schema.png]]
+![[img_star schema.png]]

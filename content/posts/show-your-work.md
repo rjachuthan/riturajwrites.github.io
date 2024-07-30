@@ -4,7 +4,7 @@ date: 2023-07-19T23:51:46+05:30
 description: Here I would like to explore Austin Kleon's influential book and how that book has motivated to start this blogging site. This article underscores the potential of work transparency and continuous learning.
 disableComments: false
 tags:
-  - book
+  - 📙books
   - productivity
   - 🌿budding
 draft: false
