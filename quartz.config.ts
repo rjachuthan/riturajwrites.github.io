@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: { provider: "google", tagId: "G-0625PDYEQJ" },
     locale: "en-US",
     baseUrl: "riturajwrites.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "assets"],
+    ignorePatterns: ["private", "templates", ".obsidian", "assets", "misc"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
