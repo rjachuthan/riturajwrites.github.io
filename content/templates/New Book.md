@@ -3,7 +3,7 @@ title: ""
 description: ""
 aliases: 
 tags:
-  - books
+  - 📙books
   - literature-note
 draft: true
 date: <% tp.date.now("YYYY-MM-DD") %>
