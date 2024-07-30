@@ -7,17 +7,18 @@ aliases:
 tags:
   - 🌿budding
   - generativeai
-  - opinion
+  - 📢opinion
   - image
 draft: false
 date: 2024-05-28
-status: not-started
+status: done
 backlink:
+  - "[[image generation tools|Image Generation Tools]]"
 ---
 
 For the past couple of days, there's been a slow-burn conversation in a group chat about how an Image Generation AI - [Kalaido.ai](kalaido.ai) - isn't being "inclusive." Someone started a thread questioning why [[generative ai|image generation tools]] like Kalaido, ChatGPT, and DALL-E 3 don't generate images of women when asked to create an *"image of an Indian coder working in an office."* This was a genuine query from the user and not a political statement. While some colleagues agree and want more inclusivity from the [[artificial intelligence|AI]], I see things a bit differently.
 
-[^1] ![[img_20240529_20240528_confused robot painting on canvas by ideogram-ai.png]]
+[^1] ![[banner_confused robot painting on canvas by ideogram-ai.png]]
 
 First off, let me clarify few things:
 - These thoughts are specific to the discussion of AI inclusivity and diversity. I hope you won't misinterpret this as my stance on inclusivity and diversity in general.
