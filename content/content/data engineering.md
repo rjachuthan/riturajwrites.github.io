@@ -9,12 +9,17 @@ aliases:
 tags:
   - 🌱seedling
   - dataengnineering
+  - 🗺️MOC
 draft: false
 date: 2024-04-27
 status: done
 ---
 
 Data engineering is the design and construction of systems tailored for the collection, storage, and analysis of data on a large scale. This discipline spans across various industries due to the ubiquitous nature of data. With the capacity to amass vast quantities of data, organizations rely on adept individuals and advanced technology to ensure its usability for data scientists and analysts.
+
+> ![[img_20240619_data engineering.png]]
+> <em>Engineers working on a Data Pipeline drawn using Midjourney by author.</em>
+
 
 Key responsibilities of a data engineer include:
 - Acquiring datasets aligned with business objectives.
@@ -26,7 +31,6 @@ Key responsibilities of a data engineer include:
 
 However, paramount among these duties is the establishment of resilient [[data pipeline]]s. These pipelines should operate flawlessly, continuously extracting, loading, and transforming data, provided that foundational conditions are unchanged.
 
-> [!Important]
-> **Data Engineering** is not a distinct entity from **Software Engineering**; rather, it is a specialized subset of software engineering.
+> [!Important] **Data Engineering** is not a distinct entity from **Software Engineering**; rather, it is a specialized subset of software engineering.
 
 **NOTE**: This page serves as a dedicated space within this blog/garden for ongoing updates. Here, I will continuously append new information as I gather it, ensuring a repository for future reference and expansion.
