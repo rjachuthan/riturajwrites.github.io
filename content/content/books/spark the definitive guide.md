@@ -1,48 +1,48 @@
 ---
 title: "Spark: The Definitive Guide"
 description: ""
-aliases: 
+aliases:
 tags:
-  - books
+  - 📙books
   - dataengineering
   - literature-note
-draft: false
+draft: true
 date: 2024-04-28
 status: in-progress
 ---
 
-<center>
-	<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518177736i/38467996.jpg" />
-</center>
 
-> [!INFO] Metadata
->  - **Full Title**: "Spark: The Definitive Guide: Big Data Processing Made Simple"
->  - **Author**: [[Bill Chambers]], [[Matei Zaharia]]
->  - **Goodreads URL**: [Spark: The Definitive Guide: Big Data Processing made Simple](https://www.goodreads.com/book/show/38467996-spark?ac=1&from_search=true&qid=YxSBVyJBud&rank=1)
+> [!infobox] Metadata
+> <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518177736i/38467996.jpg" />
+> 
+> | **Full Title** | Spark: The Definitive Guide: Big Data Processing Made Simple |
+> | --- | --- |
+> | **Author** | Bill Chambers, Matei Zaharia |
+> | **Goodreads URL** | [Spark: The Definitive Guide: Big Data Processing made Simple](https://www.goodreads.com/book/show/38467996-spark) |
 
-# General Overview of [[big data|Big Data]] and Spark
+## General Overview of [[big data|Big Data]] and Spark
 
-## What is Apache Spark?
+### What is Apache Spark?
 
 [[apache spark|Apache Spark]] stands as a unified computing engine alongside a suite of libraries designed for parallel data processing across computer clusters. It was made to deal with changes in how computers and data storage work. Back in 2005, computer hardware stopped getting much faster, so people needed new ways to handle lots of tasks at once. At the same time, storing data became cheaper, which meant there was more data to deal with than ever before.
 
-## Apache Spark's Philosophy
+### Apache Spark's Philosophy
 
 - **Unified**: Spark offers a single platform for various big data tasks like loading data, querying with [[sql|SQL]], [[machine learning|Machine Learning]], and handling real-time data, making development easier and more efficient.
 - **Computing Engine**: Spark focuses on computing tasks, working with different storage systems but not storing data permanently itself. It aims to minimise data movement and costs by computing where data resides.
 - **Libraries**: Spark provides additional libraries for various tasks, expanding its capabilities and allowing users to work with different types of data and perform specific tasks more easily. You can find Spark's libraries listed [here](https://spark-packages.org/).
 
-## Spark's Basic Architecture
+### Spark's Basic Architecture
 
 To efficiently process large computations on substantial data volumes, clusters of computers pool their resources to act as a unified entity. [[apache spark|Apache Spark]] plays a pivotal role in orchestrating tasks across these clusters, ensuring effective task execution. Spark applications are submitted to a cluster manager, such as Spark's standalone manager, [[yet another resource negotiator|YARN]], or [[mesos|Mesos]], which allocates resources from the cluster for distributed task execution. This approach enables Spark to handle the intricacies of [[distributed computing]], optimizing resource utilization and facilitating scalable data processing.
 
-### Spark Applications
+#### Spark Applications
 
 Spark applications comprise a **driver process**, responsible for managing the application and distributing tasks across executors, and **executor processes**, which execute assigned tasks and report back to the driver. The driver is the central controller, while executors carry out parallel computing tasks. A cluster manager, like Spark standalone, [[yet another resource negotiator|YARN]], or [[mesos|Mesos]], oversees physical cluster machines and allocates resources to Spark applications, allowing multiple applications to run concurrently.
 
 Additionally, Spark can operate in local mode, where the driver and executors run on a single machine, making it accessible for personal computer use without requiring a distributed system.
 
-## Spark's Language API's
+### Spark's Language API's
 
 Spark's Language APIs enable users to write Spark code using various programming languages, with core concepts translated into Spark code for execution on clusters.
 - [[scala|Scala]] is Spark's default language.
@@ -51,7 +51,7 @@ Spark's Language APIs enable users to write Spark code using various programming
 - Spark supports a subset of ANSI SQL 2003, facilitating easy usage for analysts and non-programmers.
 - For [[r programming|R]] users, Spark offers two commonly used libraries: SparkR and sparklyr.
 
-## Spark's High Level APIs
+### Spark's High Level APIs
 
 - **[[spark session|SparkSession]]**: The SparkSession serves as the *driver process* for controlling Spark Applications. It is responsible for executing user-defined manipulations across the cluster. Each Spark Application corresponds to a single SparkSession, ensuring a one-to-one relationship between them.
 - **[[spark dataframe|Spark DataFrame]]**: A Spark DataFrame is a distributed collection of data organized into named columns.
