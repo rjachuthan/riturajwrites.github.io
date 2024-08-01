@@ -5,7 +5,7 @@ aliases:
   - Java
 tags:
   - 🌱seedling
-  - programming
+  - programming/java
 draft: false
 date: 2024-04-30
 ---

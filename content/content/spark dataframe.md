@@ -5,7 +5,7 @@ aliases:
   - Spark DataFrame
 tags:
   - 🌱seedling
-  - programming
+  - programming/spark
 draft: false
 date: 2024-04-30
 backlink:

@@ -5,7 +5,7 @@ aliases:
   - PyTest
 tags:
   - 🌱seedling
-  - programming
+  - programming/python/library
 draft: false
 date: 2024-05-28
 backlink:

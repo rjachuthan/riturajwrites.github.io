@@ -5,7 +5,7 @@ aliases:
   - SparkSession
 tags:
   - 🌱seedling
-  - programming
+  - programming/spark
 draft: false
 date: 2024-05-02
 backlink:

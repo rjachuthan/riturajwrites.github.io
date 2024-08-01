@@ -5,7 +5,7 @@ aliases:
   - Spark UI
 tags:
   - 🌱seedling
-  - programming
+  - programming/spark
 draft: false
 date: 2024-05-01
 backlink:

@@ -6,7 +6,7 @@ aliases:
   - Lua
 tags:
   - 🌱seedling
-  - programming
+  - programming/lua
 draft: false
 date: 2024-05-16
 backlink:

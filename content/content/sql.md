@@ -7,7 +7,7 @@ aliases:
 tags:
   - 🌱seedling
   - database
-  - programming
+  - programming/sql
 draft: false
 date: 2024-05-02
 backlink:

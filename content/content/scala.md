@@ -5,7 +5,7 @@ aliases:
   - Scala
 tags:
   - 🌱seedling
-  - programming
+  - programming/scala
 draft: false
 date: 2024-04-30
 ---

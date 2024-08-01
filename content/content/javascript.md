@@ -6,7 +6,7 @@ aliases:
   - TypeScript
 tags:
   - 🌱seedling
-  - programming
+  - programming/javascript
 draft: false
 date: 2024-05-28
 backlink:

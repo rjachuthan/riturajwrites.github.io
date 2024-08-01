@@ -5,7 +5,7 @@ aliases:
   - R
 tags:
   - 🌱seedling
-  - programming
+  - programming/r
 draft: false
 date: 2024-04-30
 ---
