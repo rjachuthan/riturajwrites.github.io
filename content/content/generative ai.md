@@ -7,7 +7,7 @@ aliases:
   - Gen AI
 tags:
   - 🌱seedling
-  - generativeai
+  - genai
 draft: false
 date: 2024-05-05
 backlink:

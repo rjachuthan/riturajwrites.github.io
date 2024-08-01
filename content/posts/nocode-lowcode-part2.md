@@ -6,7 +6,7 @@ disableComments: false
 showHero: true
 tags:
   - data/engineering
-  - databricks
+  - data/databricks
   - 🌿budding
 draft: false
 ---

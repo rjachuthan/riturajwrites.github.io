@@ -1,10 +1,13 @@
 ---
 title: Java
-description: Java is a popular programming language known for its simplicity, portability, and versatility. It is widely used for developing a variety of applications, including web, mobile, enterprise, and desktop applications. Java is known for its strong support for object-oriented programming principles, platform independence (thanks to the Java Virtual Machine), and rich ecosystem of libraries and frameworks.
+description: A widely-used, object-oriented programming language known for its portability, performance, and extensive standard library.
 aliases:
   - Java
 tags:
   - 🌱seedling
-draft: true
+  - programming
+draft: false
 date: 2024-04-30
 ---
+
+Java is a versatile, high-level programming language that follows the object-oriented programming (OOP) paradigm. Developed by *Sun Microsystems* (now owned by Oracle Corporation) and released in 1995, Java is designed to be platform-independent, enabling developers to write code once and run it anywhere through the Java Virtual Machine (JVM). It is renowned for its robustness, performance, and security features, making it a popular choice for building enterprise-level applications, web servers, and Android apps. Java's comprehensive standard library provides a vast range of tools for networking, data structures, and graphical user interface (GUI) development. The language's strong community support and extensive documentation further contribute to its widespread adoption and continued relevance in modern software development.

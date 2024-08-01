@@ -1,10 +1,17 @@
 ---
 title: Junk Dimension
-description: A junk dimension is a dimension table in a data warehouse that consolidates low-cardinality attributes or flags that do not fit naturally into existing dimensions. It helps simplify the data model by reducing the number of dimension tables and can improve query performance and maintainability by grouping related attributes together. Junk dimensions are typically used for convenience and to avoid creating numerous small dimensions for each low-cardinality attribute.
+description: A data warehousing technique that consolidates miscellaneous, low-cardinality attributes into a single dimension table to streamline the database schema.
 aliases:
   - Junk Dimension
 tags:
   - 🌱seedling
-draft: true
+  - data/modeling
+draft: false
 date: 2024-04-29
 ---
+
+In [[data warehouse]]-ing, a junk dimension is used to manage and consolidate various low-cardinality attributes that do not fit neatly into the main dimensions.
+
+These attributes, often flags or indicators such as "yes/no" values, statuses, or other small categorical data, are combined into a single junk dimension table. 
+
+This approach helps to simplify the database schema by avoiding the proliferation of multiple small dimension tables and reducing the number of foreign keys in the fact table. By grouping these attributes together, the junk dimension improves data organization and query performance while maintaining a clean and efficient [[star schema]] design. It also facilitates easier maintenance and enhances the readability of the data model.

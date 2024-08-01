@@ -1,12 +1,12 @@
 ---
 title: Directed Acyclic Graph
-description: "A Directed Acyclic Graph (DAG) is a graph structure where edges have a direction and there are no cycles, meaning no path returns to the same node."
+description: A Directed Acyclic Graph (DAG) is a graph structure where edges have a direction and there are no cycles, meaning no path returns to the same node.
 aliases:
   - Directed Acyclic Graph
   - DAG
 tags:
   - 🌱seedling
-draft: true
+draft: false
 date: 2024-05-01
 ---
 

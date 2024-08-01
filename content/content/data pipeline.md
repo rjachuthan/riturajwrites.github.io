@@ -1,12 +1,12 @@
 ---
 title: Data Pipelines
-description: "A data pipeline is a series of processes that automate the flow of data from source systems to storage or analytical tools."
+description: A data pipeline is a series of processes that automate the flow of data from source systems to storage or analytical tools.
 aliases:
   - Data Pipeline
 tags:
   - 🌱seedling
   - data/engineering
-draft: true
+draft: false
 date: 2024-04-27
 ---
 

@@ -6,7 +6,7 @@ aliases:
   - Distributed Systems
 tags:
   - 🌱seedling
-draft: true
+draft: false
 date: 2024-04-30
 ---
 

@@ -6,7 +6,7 @@ aliases:
   - I don't want my AI Image Generators to be Inclusive!
 tags:
   - 🌿budding
-  - generativeai
+  - genai
   - 📢opinion
   - image
 draft: false

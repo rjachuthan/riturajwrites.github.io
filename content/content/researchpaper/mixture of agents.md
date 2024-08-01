@@ -8,7 +8,7 @@ tags:
   - 🌱seedling
   - researchpaper
   - llms
-draft: false
+draft: true
 date: 2024-06-17
 backlink:
   - "[[llm|Large Language Model]]"

@@ -5,7 +5,6 @@ aliases:
 tags:
   - 📙books
   - data/engineering
-  - literature-note
 draft: true
 date: 2024-04-28
 ---
@@ -13,7 +12,7 @@ date: 2024-04-28
 
 > [!infobox] Metadata
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518177736i/38467996.jpg" />
-> 
+>
 > | **Full Title** | Spark: The Definitive Guide: Big Data Processing Made Simple |
 > | --- | --- |
 > | **Author** | Bill Chambers, Matei Zaharia |
