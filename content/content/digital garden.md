@@ -61,7 +61,7 @@ These are the terms which I will be using in this digital garden of mine:
 
 > [!tip] Publishing imperfect and early ideas requires that we make the status of our notes clear to readers.
 
-Learning in public is a powerful antidote to imposter syndrome. By sharing your thought process openly, you not only contribute to the collective knowledge but also hold yourself accountable. This practice encourages continuous improvement and personal growth.
+[[show-your-work#Think About the Process and Share Something Small Everyday|Learning in Public]] is a powerful antidote to imposter syndrome. By sharing your thought process openly, you not only contribute to the collective knowledge but also hold yourself accountable. This practice encourages continuous improvement and personal growth.
 
 # 🌈 Conclusion
 
