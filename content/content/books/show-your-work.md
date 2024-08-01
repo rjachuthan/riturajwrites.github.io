@@ -10,9 +10,9 @@ tags:
 draft: false
 ---
 
-Let me get one thing straight - [Austin Kleon](https://twitter.com/austinkleon)'s 'Show Your Work!' has been rattling around in my brain like a catchy pop song for months now. You know the type - it's 3 AM, you're trying to sleep, and all you can hear is 'share your work, share your work.' It's like a mantra, a chant, a nagging parent reminding you to clean your room. but instead of dirty laundry, it's all about airing our your knowledge and learning for the world to see.
+Let me get one thing straight - [Austin Kleon](https://twitter.com/austinkleon)'s 'Show Your Work!' has been rattling around in my brain like a catchy pop song for months now. You know the type - it's 3 AM, you're trying to sleep, and all you can hear is 'share your work, share your work.' It's like a mantra, a chant, a nagging parent reminding you to clean your room. but instead of dirty laundry, it's all about airing out your knowledge and learning for the world to see.
 
-I know what you are thinking - "That book's been out for years, why are you just now deciding to write about it?" Well, I read it couple of months back and I have been meaning to write this article for months now. And let me tell you, it's not for lack of trying. But every time I sat down to write, I'd get this nagging feeling like I was about to jump off a high dive. Scary stuff, right? But then, as I was tinkering around with my website (shout out to the [Hugo Theme - Winston](https://github.com/zerostaticthemes/hugo-winston-theme)), I stumbled upon this gem: "You don't start out writing good stuff." And I thought, "Well, isn't that just the permission slip I needed to dive headfirst into the pool of mediocrity."
+I know what you are thinking - "That book's been out for years, why are you just now deciding to write about it?" Well, I read it couple of months back and I have been meaning to write this article for months now. And let me tell you, it's not for lack of trying. But every time I sat down to write, I'd get this nagging feeling like I was about to jump off a high dive. Scary stuff, right? But then, as I was tinkering around with my website (shout out to the [Hugo Theme - Winston](https://github.com/zerostaticthemes/hugo-winston-theme)), I stumbled upon this gem: "**You don't start out writing good stuff.**" And I thought, "Well, isn't that just the permission slip I needed to dive headfirst into the pool of mediocrity."
 
 ## So, How is the Book?
 
@@ -32,7 +32,7 @@ The concept of "Scenius" is another powerful idea from the book. It suggests tha
 
 ### Think About the Process and Share Something Small Everyday
 
-Austin places a strong emphasis on the process rather than the final product. And not Austin, several gurus in the industry does emphasise on the process. Documenting and sharing your process can be a powerful tool for learning and growth. It allows you to reflect on your progress, gain valuable feedback, and connect with others who might be on a similar journey.
+Austin places a strong emphasis on the process rather than the final product. And not Austin, several gurus in the industry does emphasise on the process. Documenting and sharing your process can be a powerful tool for learning and growth. It allows you to reflect on your progress, gain valuable feedback, and connect with others who might be on a similar journey. This is akin to cultivating a [[digital garden]], where your ideas and projects are continually evolving and growing for others to see.
 
 The idea of sharing something small every day is a practical way of putting this into action. It doesn't have to be a finished product or a groundbreaking idea. It could be a snippet of code, a sketch, a thought, or a question. The act of sharing regularly not only helps you maintain momentum but also allows others to see and engage with your work in progress.
 
@@ -42,6 +42,12 @@ This means sharing your interests, your inspirations, and the things that make y
 
 Hoarding knowledge or ideas can stifle creativity and prevent the free flow of information that is so crucial in a creative community. By sharing what you know and learn, you're contributing to the collective knowledge of your "Scenius" and creating a culture of generosity and collaboration.
 
+### Embracing Imperfection
+
+One of the most liberating messages of the book is the idea of embracing imperfection. Kleon emphasizes that you don’t need to wait until your work is perfect to share it. In fact, showing your work in its raw, imperfect state can be incredibly powerful. It humanizes you and makes your creative process relatable to others. It also fosters an environment where learning in public becomes the norm, allowing for accountability and transparency in your thought process. This is a crucial aspect of personal and professional growth.
+
 ## Conclusion
 
 Despite its lack of groundbreaking revelations, I'd still give 'Show Your Work!' a hearty thumbs up. Why? Because it doesn't just tell you to create an online presence, it makes a compelling case for why you should. It's a book that deserves at least one read-through, because if you let it, it can shift your perspective and maybe, just maybe, inspire you to take that leap into the digital unknown.
+
+Incorporating these concepts into my own journey has made a significant difference. From building my [[digital garden]] to embracing the idea of learning in public and sharing my journey with all its imperfections, I've found a new level of engagement and growth. Sharing my work has not only kept me accountable but has also connected me with a community of like-minded individuals, fostering a culture of openness and continuous learning.
