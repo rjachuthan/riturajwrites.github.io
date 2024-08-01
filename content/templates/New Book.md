@@ -7,7 +7,6 @@ tags:
   - literature-note
 draft: true
 date: <% tp.date.now("YYYY-MM-DD") %>
-status: not-started
 backlink:
 ---
 

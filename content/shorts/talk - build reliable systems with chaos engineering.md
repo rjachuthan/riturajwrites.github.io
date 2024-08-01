@@ -1,6 +1,6 @@
 ---
 title: Build Reliable Systems With Chaos Engineering
-description: ""
+description: "This is a summary of a talk in the MLOps Community by Benjamin Whips, CEO of Steadybit, where he discusses the importance of chaos engineering in ensuring the reliability and resilience of complex systems."
 aliases:
   - Build Reliable Systems With Chaos Engineering
 tags:
@@ -8,7 +8,6 @@ tags:
   - 🗨️talk
 draft: false
 date: 2024-06-02
-status: done
 backlink:
   - "[[chaos engineering|Chaos Engineering]]"
 ---

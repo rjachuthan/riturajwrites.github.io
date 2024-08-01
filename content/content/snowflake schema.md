@@ -7,7 +7,6 @@ tags:
   - 🌱seedling
 draft: false
 date: 2024-04-29
-status: done
 ---
 
 A Snowflake Schema is a type of [[data modeling]] technique used in [[data warehouse]] where the [[dimension table]]s are normalized into multiple related tables, forming a shape resembling a snowflake. Unlike the [[star schema]], where dimension tables are denormalized, in the Snowflake Schema, dimension tables are normalized to eliminate redundancy and improve data integrity. This schema design leads to more efficient use of storage space and allows for easier maintenance of the database. However, it can result in more complex queries due to the need for joins across multiple tables.

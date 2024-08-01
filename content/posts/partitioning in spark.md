@@ -5,10 +5,9 @@ aliases:
   - Partitioning In Spark
 tags:
   - 🌱seedling
-  - dataengineering
+  - data/engineering
 draft: true
 date: 2024-05-10
-status: not-started
 backlink:
 ---
 

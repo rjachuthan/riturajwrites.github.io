@@ -7,7 +7,6 @@ tags:
   - literature-note
 draft: true
 date: 2024-06-05
-status: not-started
 backlink:
   - "[[database|Database]]"
 ---

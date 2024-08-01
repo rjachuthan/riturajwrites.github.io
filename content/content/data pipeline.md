@@ -1,12 +1,13 @@
 ---
 title: Data Pipelines
-description: A data lakehouse combines the benefits of a data lake (scalability, flexibility, and cost-effectiveness for storing raw and unstructured data) with those of a data warehouse (structured querying, transactional integrity, and performance optimizations), providing a unified platform for both operational and analytical workloads in modern data architectures.
+description: "A data pipeline is a series of processes that automate the flow of data from source systems to storage or analytical tools."
 aliases:
   - Data Pipeline
 tags:
   - 🌱seedling
-  - dataengineering
+  - data/engineering
 draft: true
 date: 2024-04-27
-status: not-started
 ---
+
+A data pipeline consists of a set of processes that handle the extraction, transformation, and loading (ETL) of data from various sources to a destination, such as a [[data warehouse]] or [[data lake]]. The pipeline automates data collection, cleansing, transformation, and integration to ensure that data is available for analysis and reporting. It typically includes stages like data ingestion, data processing, data storage, and data delivery. Data pipelines are essential for maintaining data flow efficiency, ensuring data quality, and enabling timely insights across systems. They can be designed to handle batch processing or real-time data streams, depending on the requirements of the organization.

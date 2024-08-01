@@ -5,8 +5,7 @@ aliases:
   - YARN
 tags:
   - 🌱seedling
-  - dataengineering
+  - data/engineering
 draft: true
 date: 2024-04-30
-status: not-started
 ---

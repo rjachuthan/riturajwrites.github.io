@@ -3,7 +3,7 @@ title: Building a Low-Code/No-Code Data Engineering Framework - Part I
 date: 2023-07-30T17:01:43+05:30
 description: Explore the transformative potential of Low-Code/No-Code Data Engineering in this detailed blog post. Learn about the inception of our unique framework, designed to streamline and democratize the Data Engineering process. Understand how this innovation in Data Engineering has enhanced our development workflow, promoting efficiency and collaboration. However, innovation isn't without its challenges.
 tags:
-  - dataengineering
+  - data/engineering
   - databricks
   - 🌿budding
 backlink:

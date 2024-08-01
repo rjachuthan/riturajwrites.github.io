@@ -4,11 +4,10 @@ description: ""
 aliases:
 tags:
   - 📙books
-  - dataengineering
+  - data/engineering
   - literature-note
 draft: true
 date: 2024-04-28
-status: in-progress
 ---
 
 

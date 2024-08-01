@@ -5,10 +5,10 @@ description: Learn about the inception of our unique framework, designed to stre
 disableComments: false
 showHero: true
 tags:
-  - dataengineering
+  - data/engineering
   - businessintelligence
-  - datalakehouse
-  - datawarehouse
+  - data/lakehouse
+  - data/warehouse
   - 🌿budding
 draft: false
 ---

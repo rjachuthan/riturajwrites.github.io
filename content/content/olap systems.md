@@ -7,5 +7,4 @@ tags:
   - 🌱seedling
 draft: true
 date: 2024-04-29
-status: not-started
 ---

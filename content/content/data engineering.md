@@ -8,11 +8,10 @@ aliases:
   - data engineer
 tags:
   - 🌱seedling
-  - dataengnineering
+  - data/engineering
   - 🗺️MOC
 draft: false
 date: 2024-04-27
-status: done
 ---
 
 Data engineering is the design and construction of systems tailored for the collection, storage, and analysis of data on a large scale. This discipline spans across various industries due to the ubiquitous nature of data. With the capacity to amass vast quantities of data, organizations rely on adept individuals and advanced technology to ensure its usability for data scientists and analysts.

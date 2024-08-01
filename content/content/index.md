@@ -5,6 +5,5 @@ date: 2024-04-27
 tags:
   - 🗺️MOC
 draft: false
-status: in-progress
 ---
 
