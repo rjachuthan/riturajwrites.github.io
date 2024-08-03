@@ -44,7 +44,7 @@ export default ((userOpts?: Partial<Options>) => {
             return (
               <li class="recent-li">
                 <div class="section">
-                  <div class="desc">
+                  {/* <div class="desc">
                     <h3>
                       <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                         {title}
@@ -55,7 +55,11 @@ export default ((userOpts?: Partial<Options>) => {
                     <p class="meta">
                       <Date date={getDate(cfg, page)!} locale={cfg.locale} />
                     </p>
-                  )}
+                  )} */}
+                  <a href={resolveRelative(fileData.slug!, page.slug!)}>{title} </a>
+                  <small>
+                    ({page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />})
+                  </small>
                 </div>
               </li>
             )
