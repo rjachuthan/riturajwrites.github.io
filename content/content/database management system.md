@@ -1,6 +1,6 @@
 ---
 title: Database Management System
-description: ""
+description: "A Database Management System (DBMS) is software that allows users to define, create, maintain, and control access to databases, ensuring efficient data management and retrieval."
 aliases:
   - Database Management System
   - DBMS

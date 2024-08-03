@@ -1,6 +1,6 @@
 ---
 title: Data Validation
-description: ""
+description: "Data validation ensures the accuracy and quality of data by checking its compliance with defined rules and constraints before processing or storing it."
 aliases:
   - Data Validation
 tags:

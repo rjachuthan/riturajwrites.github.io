@@ -5,6 +5,8 @@ aliases:
   - Mastering Chaos: How To Implement Chaos Engineering In Any Data Projects
 tags:
   - 🌿budding
+  - programming
+  - data/engineering
 draft: false
 date: 2024-07-13
 backlink:
