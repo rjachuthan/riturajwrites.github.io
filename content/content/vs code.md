@@ -1,5 +1,5 @@
 ---
-title: Vs Code
+title: VS Code
 description: A lightweight, partly open-source code editor developed by Microsoft that offers features like debugging, Git integration, and an extensive library of extensions
 aliases:
   - VS Code
