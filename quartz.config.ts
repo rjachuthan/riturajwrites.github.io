@@ -16,6 +16,7 @@ const config: QuartzConfig = {
     baseUrl: "riturajwrites.xyz",
     ignorePatterns: ["private", "templates", ".obsidian", "assets", "misc"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
