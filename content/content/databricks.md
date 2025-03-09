@@ -6,7 +6,6 @@ aliases:
 tags:
   - 🌱seedling
   - data/engineering
-  - cloud
 draft: false
 date: 2024-05-01
 ---

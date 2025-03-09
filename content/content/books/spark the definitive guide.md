@@ -1,17 +1,20 @@
 ---
 title: "Spark: The Definitive Guide"
 description: ""
-aliases:
+aliases: 
 tags:
   - 📙books
   - data/engineering
 draft: true
 date: 2024-04-28
+Author:
+  - "[[Bill Chambers]]"
+  - "[[Matei Zaharia]]"
 ---
 
 
 > [!infobox] Metadata
-> <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518177736i/38467996.jpg" />
+> <center><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518177736i/38467996.jpg" /></center>
 >
 > | **Full Title** | Spark: The Definitive Guide: Big Data Processing Made Simple |
 > | --- | --- |

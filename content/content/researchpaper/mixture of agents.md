@@ -14,7 +14,7 @@ backlink:
   - "[[llm|Large Language Model]]"
 ---
 
-> [!Note]- Metadata
+> [!Note] Metadata
 >
 > | **Title** | Mixture-of-Agents Enhances Large Language Model Capabilities |
 > | --- | --- |

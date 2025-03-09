@@ -7,7 +7,7 @@ tags:
   - 🌱seedling
   - data/engineering
   - data/warehouse
-  - businessintelligence
+  - data/businessintelligence
 draft: false
 date: 2024-04-29
 ---

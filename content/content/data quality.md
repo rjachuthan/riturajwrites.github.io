@@ -5,9 +5,9 @@ aliases:
   - Data Quality
 tags:
   - 🌱seedling
+  - data/businessintelligence
   - data/engineering
   - data/warehouse
-  - businessintelligence
 draft: false
 date: 2024-05-01
 backlink:

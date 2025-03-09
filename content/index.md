@@ -3,6 +3,7 @@ title: "🌲 Welcome to my Internet Brain Dump"
 date: 2024-04-27
 ---
 
+![[img_secondbrain_digital_garden.png]]
 Welcome to my [[digital garden|Digital Garden]] 🌱, a humble corner of the internet. You'll find me here, with an insatiable love for all things tech. From [[data engineering|Data Engineering]] to [[data science|Data Science]], [[ai]] and even a dive into the captivating world of [[linux|Linux]] 🐧, I'm on a quest to explore, learn, and share my discoveries with you.
 
 But let's be real – I'm no coding wizard. Despite my daydreams filled with lines of code, I often find myself struggling to carve out enough time to make them a reality. Yet, fear not, for I'm determined to change that narrative! 😅

@@ -2,7 +2,6 @@
 title: I don't want my AI Image Generators to be Inclusive!
 description: Exploring the balance between AI image generators and inclusivity. Understand the challenges of enforcing inclusivity.
 aliases:
-  - Why You Should Not Expect Your Image Generation AI To Throw Diverse Results
   - I don't want my AI Image Generators to be Inclusive!
 tags:
   - 🌿budding

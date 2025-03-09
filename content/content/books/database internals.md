@@ -1,14 +1,15 @@
 ---
 title: Database Internals
 description: ""
-aliases:
+aliases: 
 tags:
   - 📙books
-  - literature-note
+  - programming/sql
+  - database
 draft: true
 date: 2024-06-05
 backlink:
-  - "[[database|Database]]"
+  - database
 ---
 
 > [!Infobox] Metadata
