@@ -11,3 +11,11 @@ private/
 replit.nix
 content/.trash/
 content/.smart-connections/
+
+# Ignore Smart Connections folder
+.smart-connections
+.smart-env/
+.stfolder/
+
+content/trash/
+.stignore
