@@ -16,3 +16,7 @@ Medallion Architecture is a modern data architecture framework that structures d
 - The gold layer represents the curated, high-quality data ready for analysis, reporting, and decision-making.
 
 This layered approach promotes modularity and scalability, making it easier to manage large volumes of data and adapt to changing business requirements. By separating the stages of data processing, Medallion Architecture allows organizations to implement robust data governance practices, improve data quality, and facilitate advanced analytics, such as machine learning and business intelligence.
+
+* [[medallion architecture - bronze layer|Bronze Layer]]
+* [[medallion architecture - silver layer|Silver Layer]]
+* [[medallion architecture - gold layer|Gold Layer]]

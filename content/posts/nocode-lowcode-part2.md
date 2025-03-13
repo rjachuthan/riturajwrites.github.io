@@ -2,7 +2,6 @@
 title: Building a Low-Code/No-Code Data Engineering Framework - Part II
 date: 2023-08-07
 description: Learn about the inception of our unique framework, designed to streamline and democratize the data engineering process. Understand how this innovation in data engineering has enhanced our development workflow, promoting efficiency and collaboration. However, innovation isn't without its challenges.
-disableComments: false
 showHero: true
 tags:
   - data/engineering

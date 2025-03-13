@@ -1,8 +1,10 @@
 ---
 title: Book Notes and Summaries
 description: ""
-aliases:
+aliases: 
 tags:
+  - 📙books
+  - 🗺️MOC
 draft: false
 date: 2024-04-28
 ---

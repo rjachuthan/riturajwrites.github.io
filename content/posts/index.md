@@ -1,7 +1,7 @@
 ---
 title: Essays
 description: ""
-aliases: 
+aliases:
 tags:
   - 🌱seedling
 draft: false
