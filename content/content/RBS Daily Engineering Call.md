@@ -1,0 +1,31 @@
+
+- [[Muthyala Sai Rakesh]]
+	- Reconciliation of France Retailers:
+		- [[2025-11-17]]
+			- Source changes and not exactly reconciliation.
+			- Leclerc is done. - Got a new data source for Category (`Q_Circuit_Petcare` sheet name).
+				- Flat files shared by Pritpal. They might share a Sharepoint location in future.
+				- Leclerc is at monthly level and not Period level.
+			- Intermache, Carrefour - Pending. Fidel to help Sai [[2025-11-18]]
+	- Profitero Reconciliation
+		- [[2025-11-17]]
+			- Data mismatch for all period. Dani has shared the data at period level. All periods had issues.
+			- Issue is multiple `sns_category_id` for same `asin`.
+				- Subscribe and Save - People who order multiple times, those folks come into this category. Something like Pre-order.
+	- Full DDaaS Logic/ETL Check- Document the process.
+		- [[2025-11-17]]
+			- [ ] TODO Review this document #rbs
+	- Profitero - Abby mapping
+		- [[2025-11-17]]
+			- Abby from DS team is creating a mapping file using ML Algo.
+			- Rakesh to validate the mapping and compare it with Pie.
+- [[Pooja Surachar]]
+	- [[2025-11-17]]
+		- Implementing Snowflake Spark Reader, Writer and Operations.
+		- Have not updated the user stories at all.
+- [[Uma Varshini CK]]
+	- [[2025-11-17]]
+		- Gap Analysis for Activations and DS team
+			- Have created a doc for this requirement gathering.
+		- RBS V1
+			- Japan Amazon Search
