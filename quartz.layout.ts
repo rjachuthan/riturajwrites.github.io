@@ -5,12 +5,23 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "rjachuthan/riturajwrites.github.io",
+        repoId: "R_kgDOL0VNfQ",
+        category: "Announcements",
+        categoryId: "DIC_kwDOL0VNfc4C0Owy",
+        lang: "en",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/rjachuthan",
       LinkedIn: "https://www.linkedin.com/in/riturajachuthan/",
-      RSS: "https://riturajwrites.xyz/sitemap.xml"
+      RSS: "https://riturajwrites.xyz/sitemap.xml",
     },
   }),
 }
@@ -40,8 +51,8 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.Darkmode()),
     Component.Graph({
-      localGraph: { showTags: true, },
-      globalGraph: { showTags: true, },
+      localGraph: { showTags: true },
+      globalGraph: { showTags: true },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
