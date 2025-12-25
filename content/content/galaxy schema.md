@@ -7,7 +7,6 @@ tags:
   - 🌱seedling
 draft: false
 date: 2024-05-02
-status: done
 backlink:
 ---
 

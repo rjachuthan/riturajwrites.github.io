@@ -2,13 +2,12 @@
 title: Goals of a Data Warehouse, Business Intelligence System or a Data Lakehouse
 date: 2023-08-07
 description: Learn about the inception of our unique framework, designed to streamline and democratize the Data Engineering process. Understand how this innovation in Data Engineering has enhanced our development workflow, promoting efficiency and collaboration. However, innovation isn't without its challenge.
-disableComments: false
 showHero: true
 tags:
-  - dataengineering
+  - data/engineering
   - businessintelligence
-  - datalakehouse
-  - datawarehouse
+  - data/lakehouse
+  - data/warehouse
   - 🌿budding
 draft: false
 ---

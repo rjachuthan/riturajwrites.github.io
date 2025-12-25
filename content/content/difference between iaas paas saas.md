@@ -7,7 +7,6 @@ tags:
   - 🌱seedling
 draft: false
 date: 2024-05-08
-status: not-started
 backlink:
 ---
 
@@ -20,6 +19,6 @@ backlink:
 
 ## Summary
 
-![[img_20240508_difference between iaas paas saas.png]][^1]
+![[img_difference between iaas paas saas.png]][^1]
 
 [^1]: [Microsoft Learn - Cloud Monitoring Strategy - High Level Modeling](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/monitoring-strategy#high-level-modeling)

@@ -5,10 +5,11 @@ aliases:
   - SparkSession
 tags:
   - 🌱seedling
+  - programming/spark
 draft: false
 date: 2024-05-02
-status: done
 backlink:
+  - "[[apache spark|Spark]]"
 ---
 
 Spark Session is a unified interface in [[apache spark|Apache Spark]] that provides a convenient way to interact with Spark functionality. It serves as the entry point for Spark applications, encapsulating the configuration, runtime environment, and essential services required to execute Spark tasks.

@@ -9,7 +9,6 @@ tags:
   - businessintelligence
 draft: false
 date: 2024-04-27
-status: done
 ---
 
 **Business Intelligence (BI)** refers to a set of technologies, strategies, and practices used by enterprises to analyze and interpret their business information and transform it into actionable business decisions. It encompasses the processes of collecting, sorting, and analyzing data from business operations or activities to optimize performance.
