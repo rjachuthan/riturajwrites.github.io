@@ -42,7 +42,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Darkmode()),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    // Component.DesktopOnly(Component.Explorer()),
+    Component.Graph({
+      localGraph: { showTags: true },
+      globalGraph: { showTags: true },
+    }),
+    Component.DesktopOnly(Component.Explorer()),
+  ],
+  right: [
+    Component.DesktopOnly(Component.Darkmode()),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Posts",
@@ -50,15 +59,6 @@ export const defaultContentPageLayout: PageLayout = {
         filter: (f) => f.slug!.startsWith("posts"),
       }),
     ),
-  ],
-  right: [
-    Component.DesktopOnly(Component.Darkmode()),
-    Component.Graph({
-      localGraph: { showTags: true },
-      globalGraph: { showTags: true },
-    }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
     Component.MobileOnly(Component.RecentNotes()),
   ],
 }
@@ -71,7 +71,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Darkmode(),
     Component.Search(),
-    // Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer()),
+  ],
+  right: [
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent",
@@ -80,5 +82,4 @@ export const defaultListPageLayout: PageLayout = {
       }),
     ),
   ],
-  right: [],
 }
